@@ -1,3 +1,10 @@
+---
+layout: entry
+title: Những điều mới mẻ có trong PHP7
+author: Nguyen Tuan Anh
+author-email: victory1080@gmail.com
+description: ột ngôn ngữ lập trình phổ biến nhất trên thế giới, gần đây đã phát hành phiên bản PHP 7. Chúng ta hãy cùng tìm hiểu PHP version 7 có gì mới mẻ so với phiên bản stable mà hiện nay chúng ta đang sử dụng
+---
 
 PHP – Một ngôn ngữ lập trình phổ biến nhất trên thế giới, gần đây đã phát hành phiên bản PHP 7. Chúng ta hãy cùng tìm hiểu PHP version 7 có gì mới mẻ so với phiên bản stable mà hiện nay chúng ta đang sử dụng –  phiên bản 5.6. PHP 6 – là một dự án thử nghiệm, nhưng vì một số lý do nào đó mà nó chưa hoàn chỉnh, để người dùng tránh việc nhầm lẫn giữa các version thử nghiệm và hoàn chỉnh. Vì vậy, PHP 7 đã ra đời. Phiên bản alpha đầu tiên được phát thành vào tháng 6/2015 và phiên bản cuối cùng dự kiến được phát hành vào tháng 10/2015. Đến thời điểm bài viết, phiên bản PHP7.0.1 đã được cho ra mắt.
 
