@@ -3,7 +3,7 @@ layout: entry
 title: Kotlin - Swift của Android
 author: Nguyễn Tuấn Anh
 author-email: victory1080@gmail.com
-description: Ngày nay, Apple đã thay thế Object-C bằng Swift cho IOS. Những ngôn ngữ mới xuất hiện để thay thế Java cho lập trình Android là điều hiển nhiên. Những ngôn ngữ như Scala, Groovy thật tiện lợi và mang lại nhiều tính năng mới mẻ.
+description: Ngày nay, Apple đã thay thế Object-C bằng Swift cho IOS.
 ---
 
 Ngày nay, Apple đã thay thế Object-C bằng Swift cho IOS. Những ngôn ngữ mới xuất hiện để thay thế Java cho lập trình Android là điều hiển nhiên. Những ngôn ngữ như Scala, Groovy thật tiện lợi và mang lại nhiều tính năng mới mẻ.
