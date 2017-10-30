@@ -1,6 +1,6 @@
 ---
 layout: entry
-title: ---
+title: Vue.js những kiến thức cơ bản
 author: Nguyễn Tuấn Anh
 author-email: victory1080@gmail.com
 description: VueJs là một thư viện tập trung vào phần view trong mô hình MVVM. VueJs chứa một sức mạnh lớn để xây dựng Single-Page Applications khi được kết hợp với công cụ build và các thư viện/component được xây dựng bởi cộng đồng
