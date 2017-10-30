@@ -3,7 +3,7 @@ layout: entry
 title: Cải thiện Performance khi render component trong React.js
 author: Nguyễn Tuấn Anh
 author-email: victory1080@gmail.com
-description: React được biết đến với tốc độ thực thi nhanh. Nhưng không có nghĩa là chúng ta không cần tối ưu hóa khi viết code. Một trong những mẹo quan trọng để giúp tăng performance cho ứng dụng react của chúng ta nhanh lên đó chính là optimize hàm `render()` của react.
+description: React được biết đến với tốc độ thực thi nhanh.
 ---
 
 React được biết đến với tốc độ thực thi nhanh. Nhưng không có nghĩa là chúng ta không cần tối ưu hóa khi viết code. Một trong những mẹo quan trọng để giúp tăng performance cho ứng dụng react của chúng ta nhanh lên đó chính là optimize hàm `render()` của react.
