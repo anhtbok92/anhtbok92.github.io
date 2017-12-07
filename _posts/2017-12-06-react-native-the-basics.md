@@ -49,3 +49,27 @@ Create React Native App tạo dễ dàng để chạy ứng dụng React Native 
  
 Khi cài đặt xong, bạn sẽ chạy app trên Android Virtual Device bằng lệnh `npm run android` hoặc chạy trên iOS bằng cách chạy lệnh `npm run ios`
 
+### Building Projects with Native Code
+
+Trong bài này chúng ta sẽ building Project trên Android Studio nên mặc định bạn phải cài đặt Android Studio và Android Virtual Device nhưng mình khuyên bạn nên sử dụng máy ảo <a href="https://www.genymotion.com/">Genymotion</a> để tăng tốc độ build App
+
+#### The React Native CLI
+
+Chúng ta sẽ cài đặt React Native thông qua command line
+
+```
+npm install -g react-native-cli
+```
+
+#### Running your React Native application
+
+Chạy react-native run-android bên trong thư mục của dự án React Native
+
+```
+cd AwesomeProject
+react-native run-android
+``` 
+ 
+Nếu mọi thứ OK, bạn sẽ được giao diện hiển thị như bên dưới:
+ 
+![list](/images/react-native/1.png) 
