@@ -47,5 +47,5 @@ Nếu bạn tò mò muốn học thêm về React Native, hãy tiếp tục theo
 
 Create React Native App tạo dễ dàng để chạy ứng dụng React Native trên thiết bị thật mà không cần cài đặt môi trường phát triển. Nếu bạn muốn chạy ứng dụng trên iOS Simulator hoặc Android Virtual Device, hãy tham khảo bài hướng dẫn building projects with native code để học cách cài đặt Xcode và cài đặt môi trường phát triển Android
  
-Khi cài đặt xong, bạn sẽ chạy app trên Android Virtual Device bằng lệnh `npm run android` hoặc chạy trên iOS bằng cách chạy lệnh `nom run ios`
+Khi cài đặt xong, bạn sẽ chạy app trên Android Virtual Device bằng lệnh `npm run android` hoặc chạy trên iOS bằng cách chạy lệnh `npm run ios`
 
