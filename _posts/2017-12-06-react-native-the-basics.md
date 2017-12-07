@@ -1,6 +1,6 @@
 ---
 layout: entry
-title: React Native cơ bản
+title: Cài đặt ứng dụng React Native
 author: Nguyễn Tuấn Anh
 author-email: victory1080@gmail.com
 description: Bài viết này sẽ giúp bạn cài đặt và xây dựng ứng dụng đầu tiên với React Native.
