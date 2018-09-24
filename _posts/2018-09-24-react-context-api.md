@@ -1,11 +1,9 @@
 ---
 layout: entry
 title: React Context API
-author: Nguyen Tuan Anh
+author: Nguyễn Tuấn Anh
 author-email: victory1080@gmail.com
-description: Trong phiên bản React 16.3.0 đã giới thiệu khá nhiều khái niệm và tính năng mới của React,
-trong đó khái niệm context được quan tâm hơn cả. Trong bài viết này chúng ta sẽ tìm hiểu tại sao context 
-lại được cộng đồng đặc biệt chú ý trong lần release này.
+description: Trong phiên bản React 16.3.0 đã giới thiệu khá nhiều khái niệm và tính năng mới của React
 ---
 
 ### 1 Context API là gì ?
